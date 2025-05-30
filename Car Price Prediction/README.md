@@ -9,8 +9,8 @@ This project uses regression models to predict car prices based on various vehic
 - Improved model accuracy to R² = 0.97.
 - Used Ridge and Lasso for regularization.
 
-## Tech Used
-Python, Scikit-learn, Pandas, Matplotlib
+## 🔧 Tools & Libraries
+- Python (Pandas, Scikit-learn, Matplotlib, Seaborn)
 
 ## Notebook
 File: `Regression - Predicting Car Prices.ipynb`
