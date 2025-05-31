@@ -22,7 +22,7 @@ File: `Regression - Predicting Car Prices.ipynb`
    git clone https://github.com/Hafsahabdi/Portfolio-Projects.git
    cd Portfolio-Projects/Car Price Prediction
 
-   🤝 How to Contribute
+## How to Contribute
 Contributions are welcome! If you'd like to enhance the project or add new features:
 
 Fork this repository.
