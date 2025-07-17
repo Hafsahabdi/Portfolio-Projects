@@ -1,6 +1,6 @@
 # 🚗 Car Price Prediction
 
-This project uses regression models to predict car prices based on various vehicle features.
+This project uses regression model to predict car prices based on various vehicle features.
 
 ## Summary
 - Cleaned and explored car dataset (Mileage, Cylinder, Liter, Cruise).
